@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "lTmEVdzEw1czgn1b58T1VkuWoZKGabvb23HylSc988WxRKZVVA+YUMwUiwleyfXVtLmCQZhuovVeOPm/TzWD/A==",
+  "success": true,
+  "projectFilePath": "D:\\Homework\\dz_1\\dopoln\\dopoln.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cavid\\.nuget\\packages\\opentk\\3.2.0\\opentk.3.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"OpenTK 3.2.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
